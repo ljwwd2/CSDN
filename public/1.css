@@ -1,0 +1,16 @@
+#box{
+    width: 900px;
+    height: 250px;
+    margin: auto;
+    display: flex;
+    align-items: stretch;
+}
+#b2{
+    flex: 3;
+    margin: 10px;
+}
+#b3{
+    flex: 3;
+    margin: 30px;
+    font-size: 30px;
+}
